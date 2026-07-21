@@ -160,6 +160,4 @@ voice-agent-qa-bot/
 └── README.md                # Setup, operation, and architecture documentation.
 ```
 
-## Credentials
 
-`.env` is gitignored and must remain local. `.env.example` contains only required variable names, placeholders, and non-secret defaults; no real credentials are committed.
