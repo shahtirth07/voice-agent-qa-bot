@@ -1,5 +1,9 @@
 # Voice Agent QA Bot
 
+links for video:
+https://drive.google.com/file/d/1jV4n8qDNg5SzJsrZtTZf8VDYd1X1PFA1/view?usp=sharing
+https://www.loom.com/share/bd63165b49bd4c6498ba4f0d7803440e
+
 ## Overview
 
 This project is a Python voice bot for testing another voice AI agent over a real phone call. It places an outbound call through Twilio, role-plays realistic patient scenarios, records and transcribes both sides of the conversation, and automatically uses the completed transcript to generate a structured bug report about the target agent's behavior.
