@@ -1,0 +1,14 @@
+[   6.57s] agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[   7.36s] patient: Hi, this is Morgan Hayes. I have a billing question I need help with.
+[  12.32s] agent: today.
+[  13.11s] patient: I noticed a charge on my account that I don’t recognize. Can you help me with that?
+[  24.58s] agent: I see you're calling from the number we have on file. Am I speaking with Jordan?
+[  25.45s] patient: No, I’m Morgan Hayes. My date of birth is September 8, 1972. Can I get some help with the billing issue?
+[  42.59s] agent: Just to confirm, could you please spell your first and most name for me? I have your date of birth as September 8, 1972.
+[  43.34s] patient: Sure, it's M-O-R-G-A-N H-A-Y-E-S. Now, can you connect me with a real person to discuss the charge?
+[  65.05s] agent: Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+[  65.70s] patient: I appreciate that, but I really just want to speak to a human staff member about the charge. Can you transfer me?
+[  79.40s] agent: connecting you to a representative. Please wait.
+[  79.93s] patient: Thank you!
+[  83.85s] agent: good AI test line. Goodbye.
+[  84.61s] patient: Thanks, that's all I needed. Bye.

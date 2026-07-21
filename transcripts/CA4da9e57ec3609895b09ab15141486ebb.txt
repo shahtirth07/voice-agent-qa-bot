@@ -1,0 +1,2 @@
+[   6.58s] agent: This call may be recorded for quality and training purposes.
+[   7.60s] patient: Hi, this is Jordan Kim. I don’t have insurance, and I’d like to know how much a standard visit costs out of pocket.

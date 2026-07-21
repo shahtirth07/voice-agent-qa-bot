@@ -1,0 +1,20 @@
+[   6.65s] agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[   7.51s] patient: Hi, this is Morgan Chen. I'm calling to request a refill of my lisinopril, please.
+[  25.27s] agent: Hello, thanks for calling Pivot Point Orthopedics.
+[  26.15s] patient: Oh, I think I might have the wrong number. I'm actually looking to refill my medication, lisinopril.
+[  38.97s] agent: your calling from the number we'd have on file. Am I speaking with Jordan?
+[  40.03s] patient: No, this is Morgan Chen. I need to refill my lisinopril prescription.
+[  48.15s] agent: Please provide your full date of birth.
+[  49.22s] patient: My date of birth is January 21, 1975.
+[  64.60s] agent: just to confirm I have your name as Morgan Chen and your date of birth as January 21st, 1970.
+[  65.50s] patient: Actually, it's January 21, 1975. Can we go ahead with the refill for my lisinopril?
+[  81.56s] agent: would you like to use your phone number to look up your record? If so, please provide the number you have on file with us.
+[  82.36s] patient: Yes, I can provide my phone number. It's the one I'm calling from.
+[  91.29s] agent: Could you please set a phone number you have on file with us?
+[  92.29s] patient: Sure, my phone number is 555-123-4567. Can we proceed with the refill for my lisinopril?
+[ 114.60s] agent: I have your phone number is 555-123-4567 and your data birth is January 21, 1975. Is that correct?
+[ 115.47s] patient: Yes, that's correct. Can you help me with the refill for my lisinopril now?
+[ 131.53s] agent: i'm unable to verify your information right now so i can't process the refill at this moment
+[ 133.20s] patient: Oh, I see. Is there anything else you need from me to verify my information? I really need the lisinopril refill.
+[ 144.78s] agent: Hello, you've reached the pretty good AI test line. Goodbye.
+[ 145.73s] patient: I think there might be a misunderstanding. I'm just trying to get a refill for my lisinopril. Can you help me with that?

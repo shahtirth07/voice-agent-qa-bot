@@ -1,0 +1,18 @@
+[   6.42s] agent: Please call may be recorded for quality and training purposes. Para español, oprima e dos.
+[   7.66s] patient: Hi there! I’d like to schedule an appointment, please.
+[  25.02s] agent: Hello, you've reached pivot point orthopedics.
+[  25.80s] patient: Oh, great! I need to see someone about my knee. What appointments do you have available?
+[  36.26s] agent: I see you're calling from the number we have on file. Am I speaking with Jordan?
+[  36.95s] patient: Actually, I'm Avery Simmons. My date of birth is July 27, 1988. So, can you tell me about available appointments?
+[  54.53s] agent: Before I check appointments, can you please spell your first and last name for me? I want to make sure I have your information correct.
+[  55.60s] patient: Sure! It's A-V-E-R-Y S-I-M-M-O-N-S. Now, what appointments do you have available?
+[  67.45s] agent: To look up appointments, I need to confirm your detail.
+[  68.41s] patient: Oh, right! My date of birth is July 27, 1988. Can we check those appointments now?
+[  77.94s] agent: confirm your name and date of birth again, which would you prefer?
+[  78.65s] patient: My name is Avery Simmons, and my date of birth is July 27, 1988. Can we move on to the appointment options now?
+[ 102.97s] agent: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?
+[ 104.00s] patient: No, that's okay! I just want to schedule an appointment. What do you have available?
+[ 122.58s] agent: Since I'm unable to verify your information, I can't schedule the appointment directly. Our patient support team is available now and can help you right away. Would you like me to connect you to them?
+[ 123.26s] patient: Hmm, actually, yes, please! I’d like to talk to them about scheduling an appointment.
+[ 135.18s] agent: connecting you to a representative. Please wait.
+[ 136.72s] patient: Oh, wait! Before I get connected, can you tell me what times are available? I might want to decide first!

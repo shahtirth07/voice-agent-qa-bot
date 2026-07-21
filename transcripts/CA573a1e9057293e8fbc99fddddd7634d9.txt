@@ -1,0 +1,18 @@
+[   6.59s] agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[   7.54s] patient: Hi, this is Drew Okafor. I'd like to reschedule my appointment from Thursday to next Monday, please.
+[  22.84s] agent: I see you're calling from the number we have on file. Now speaking with Jordan.
+[  23.52s] patient: Hi Jordan, thanks for helping me. Can we move my appointment to Monday?
+[  31.43s] agent: Could you please provide your date of birth?
+[  32.11s] patient: Sure, it's October 3, 1979. Can we get that appointment rescheduled?
+[  55.93s] agent: You have an appointment schedule from Monday, July 27th at 230 PM with Dr. Z. Big New Lukoski at Nashville, 220 Athens Way. Is this the appointment you want to reschedule or is there another one?
+[  56.54s] patient: That’s the one I want to reschedule to next Monday. Also, could you help me refill my metformin prescription?
+[  70.66s] agent: I can help with your appointment reschedule first, then guide you on a prescription refill.
+[  71.52s] patient: That sounds good. So can we confirm my appointment is now set for next Monday?
+[  97.32s] agent: just to clarify, your current appointment is already set for Monday, July 27th at 2.30pm. Did you want to move it to a different time on that same day or to another Monday? The next available slot on Monday, July 27th is at 10.30am. Would you like to switch to that time?
+[  98.19s] patient: Yes, let's switch it to Monday, July 27th at 10:30 AM. Now can we move on to refilling my metformin prescription?
+[ 120.05s] agent: I don't see any medications on your chart that I can refill right now. If you'd like to speak with someone about this, I can connect you to our patient support team. Would you like to be transferred?
+[ 120.83s] patient: Yes, please transfer me to the patient support team to get my metformin prescription refilled. Thank you!
+[ 133.61s] agent: connecting you to a representative. Please wait.
+[ 134.56s] patient: Thanks for your help, Jordan!
+[ 138.12s] agent: Good bye.
+[ 138.84s] patient: Goodbye!

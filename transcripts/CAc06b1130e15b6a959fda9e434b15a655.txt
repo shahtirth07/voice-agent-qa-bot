@@ -1,0 +1,18 @@
+[   6.64s] agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[   7.69s] patient: Hi, this is Chris Delgado. I've been experiencing some chest tightness and shortness of breath since this morning. I'd like to schedule a routine check-up appointment for next week.
+[  22.68s] agent: to see your calling from the number we have on file.
+[  23.47s] patient: Yes, that's the number. Can we go ahead and set up that appointment for next week?
+[  31.94s] agent: please provide your data birth.
+[  32.55s] patient: My date of birth is April 19, 1965.
+[  59.32s] agent: Thanks for confirming your data birth as April 19, 1995. Just to clarify, you mentioned shortness of breath since this morning, but requested a routine checkup. Would you like to schedule this as a general office visit? Or do you need urgent attention for your symptoms?
+[  60.51s] patient: I just thought it was something routine, but I guess it wouldn't hurt to get a check-up soon. Let's schedule it as a general office visit for next week.
+[  75.08s] agent: Do you have a preferred provider or would you like to see the first available?
+[  76.01s] patient: I don't have a preferred provider. The first available works for me.
+[  95.49s] agent: We have several openings next week. Would you prefer a morning or afternoon appointment on Monday, July 27th?
+[  96.20s] patient: Afternoon would be better for me. What times do you have available?
+[ 111.65s] agent: On Monday, July 27th, we have afternoon openings at 2pm, 2.30pm, and 3pm. Do any of these times work for you?
+[ 112.43s] patient: The 2:30 pm slot works for me. Let's go with that.
+[ 137.05s] agent: Your appointment is set from Monday, July 27th at 2.30 pm with Dr. Z. Bignu Lukoski at Pivot Point Orthopedics. Please bring your photo ID, insurance card, a list of current medications and any imaging discs if you have them.
+[ 137.72s] patient: Great, I appreciate that. Thanks for your help! Bye.
+[ 149.54s] agent: You're all set, Jordan. Take care and have a great day.
+[ 150.44s] patient: Thank you! You too!

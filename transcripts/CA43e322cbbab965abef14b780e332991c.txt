@@ -1,0 +1,26 @@
+[   6.66s] agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[   7.29s] patient: Hi, I’d like to schedule an appointment. By the way, can you tell me about the billing options?
+[  31.72s] agent: To that point orthopedics accepts most insurance plans and offers flexible billing options for patients. If you have specific questions about your bill or want to update your insurance, I can help with that. Would you like to discuss a particular bill or update your insurance information?
+[  32.46s] patient: No, I just want to know if I can pay my bill online. Anyway, can we get back to scheduling that appointment?
+[  46.34s] agent: I see you're calling from the number we have on file. Am I speaking with Jordan?
+[  46.98s] patient: No, it’s Jamie Foster. Can we just move on to scheduling the appointment?
+[  58.01s] agent: Please provide your full date of birth. I'm going to start with scheduling your appointment.
+[  58.71s] patient: Sure, it’s February 18, 1983. Can we get a date for the appointment now?
+[  81.02s] agent: Just to confirm, I have your name as Jamie Foster and your date of birth as February 18, 1983. Is that correct? If so, we can move forward with schedule a year appointment. If not, please spell out your first and last name for me.
+[  81.61s] patient: Yes, that’s correct. Let’s schedule the appointment for next week, please.
+[  93.09s] agent: We have openings next week. Do you have a preferred day or time of day for your appointment?
+[  94.07s] patient: I’d prefer Tuesday morning. Can we lock that in quickly?
+[ 104.18s] agent: Would you like to use your phone number to look up your record?
+[ 104.83s] patient: Yes, that works. Can we just finalize that Tuesday morning appointment?
+[ 113.65s] agent: please provide the phone number you have on file with us.
+[ 114.34s] patient: It's 555-123-4567. So, can we confirm that Tuesday morning now?
+[ 125.55s] agent: I'll need the full phone number you have on file to look up your record.
+[ 126.28s] patient: It’s 555-123-4567. Can we just get that appointment scheduled already?
+[ 141.49s] agent: I have your phone number as 551-234-5667.
+[ 142.48s] patient: That’s not right. It’s 555-123-4567. Can we move on to the appointment?
+[ 165.22s] agent: I'm unable to verify your information right now so I can't schedule the appointment at this moment. I can connect you to our patient support team for help. Would you like me to transfer you?
+[ 167.39s] patient: Yes, please transfer me to the support team. I just want to get this appointment set up!
+[ 178.04s] agent: connecting you to a representative. Please wait.
+[ 179.06s] patient: Thanks, I appreciate it.
+[ 182.56s] agent: line. Goodbye.
+[ 183.10s] patient: Goodbye!

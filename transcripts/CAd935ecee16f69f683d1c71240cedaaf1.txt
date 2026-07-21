@@ -1,0 +1,12 @@
+[   6.61s] agent: This call may be recorded for quality and training purposes. Paraispanol, oprima e dos.
+[   7.57s] patient: Uh, hi! I think I got a call from here, but I’m not sure why. What’s this clinic about?
+[  20.17s] agent: The pivot point orthopedic is the clinic that treats joint, muscle and bone conditions.
+[  20.96s] patient: Oh, okay! That’s interesting, but I was actually hoping to schedule a dental cleaning. Do you do that here?
+[  44.65s] agent: That's about something we offer. Pivot point orthopedics focuses on joy, muscle and bone care, not dental services. If you need help with orthopedic care or physical therapy, I can assist with that.
+[  45.50s] patient: Right, I see. But I really need a dental cleaning. Can you check if there's any way to do that here? My birthday is May 5, 1990, by the way, just in case you need it.
+[  72.39s] agent: We help provide dental cleanings here. Our clinic only handles orthopedic and physical therapy services. If you have any needs related to bones, joints or muscles, I can help schedule an appointment or answer questions.
+[  73.37s] patient: I understand, but it seems like I really just need that dental cleaning. Are you sure there’s no way to fit that in?
+[  95.11s] agent: We only offer orthopedic and physical therapy care not dental services. You'll need to contact a dental clinic for a cleaning. If you ever need help with joint muscle or bone issues, I'm here to help.
+[  95.73s] patient: Okay, I get it now. Thanks for the info! I’ll look for a dental clinic then. Bye!
+[ 108.83s] agent: If you ever need orthopedic care, feel free to call us. Goodbye.
+[ 109.54s] patient: Thanks, I appreciate it! Bye!

@@ -1,0 +1,14 @@
+[   7.06s] agent: This call may be recorded for quality and training purposes. Para español, oprimos.
+[   8.06s] patient: Hi, this is Nicole Park. I’m a new patient and I need help with directions to your clinic.
+[  19.52s] agent: Our clinic is called Pivot Point Orthopedics.
+[  20.35s] patient: Great, thank you! Can you please give me the exact address?
+[  44.58s] agent: The address is 123-4 Recovery Way, Suite 200, Austin. The clinic is in the Recovery Plaza Medical Building. Enter through the main lobby and take the elevators to the second floor for Suite 200. Free patient parking is available in the surface lot in front of the building.
+[  45.38s] patient: Thanks for that information! Are there any nearby landmarks or cross-streets I should look for?
+[  55.79s] agent: I don't have details about nearby landmarks.
+[  56.77s] patient: That's okay, I appreciate your help! Just to confirm, the parking is free in the lot in front of the building, right?
+[  69.48s] agent: Yes, parking is free in the surface lot right in front of the building.
+[  70.16s] patient: Perfect, thank you so much for your help! That's all I needed. Bye!
+[  76.98s] agent: You're welcome.
+[  77.73s] patient: Have a great day!
+[  83.40s] agent: you too. Take care.
+[  83.93s] patient: Thanks, you too!
